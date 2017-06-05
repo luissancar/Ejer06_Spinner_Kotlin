@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Ejer06_Spinner_Kotlin</string>
+    <string-array name="operacion">
+        <item>Suma</item>
+        <item>Resta</item>
+        <item>Multiplica</item>
+        <item>Divide</item>
+    </string-array>
+
+</resources>
